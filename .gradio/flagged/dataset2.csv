@@ -1,0 +1,3 @@
+audio_filepath,image_filepath,Speech to Text,Doctor's Response,output 2,timestamp
+.gradio/flagged/audio_filepath/bf503021d2c267ed1603/audio.wav,.gradio/flagged/image_filepath/017ae0977ec36e747cc5/acne.jpeg, What is the problem in these?,"I cannot diagnose medical conditions based on an image. 
+If you would like to find resources for the given problem, I can suggest some general resources where you can consult a dermatologist for professional analysis.",,2025-04-13 00:33:10.722659
